@@ -1,1 +1,1 @@
-# cogitate-models
+# cogitate-types
